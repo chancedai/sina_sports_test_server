@@ -1,0 +1,25 @@
+{
+  "name": "sina_sports_test_server",
+  "version": "1.0.0",
+  "description": "A simple test server for sina sports developers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancedai/sina_sports_test_server.git"
+  },
+  "keywords": [
+    "testserver",
+    "sinas",
+    "sports",
+    "daichang"
+  ],
+  "author": "daichang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chancedai/sina_sports_test_server/issues"
+  },
+  "homepage": "https://github.com/chancedai/sina_sports_test_server#readme"
+}
